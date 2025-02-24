@@ -1,23 +1,16 @@
-F:/vivado/vivado_project/3230106231/lab5/src/full_adder.v {1 {vlog -work work -vopt -stats=none F:/vivado/vivado_project/3230106231/lab5/src/full_adder.v
-Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
--- Compiling module full_adder
-
-Top level modules:
-	full_adder
-
-} {} {}} F:/vivado/vivado_project/3230106231/lab5/src/full_adder_simulation.v {1 {vlog -work work -vopt -stats=none F:/vivado/vivado_project/3230106231/lab5/src/full_adder_simulation.v
+F:/vivado/vivado_project/3230106231/lab5/src/full_adder_simulation.v {1 {vlog -work work -vopt -stats=none F:/vivado/vivado_project/3230106231/lab5/src/full_adder_simulation.v
 Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
 -- Compiling module full_adder_tb
 
 Top level modules:
 	full_adder_tb
 
-} {} {}} F:/vivado/vivado_project/3230106231/lab5/src/comp.v {1 {vlog -work work -vopt -stats=none F:/vivado/vivado_project/3230106231/lab5/src/comp.v
+} {} {}} F:/vivado/vivado_project/3230106231/lab5/src/full_adder.v {1 {vlog -work work -vopt -stats=none F:/vivado/vivado_project/3230106231/lab5/src/full_adder.v
 Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
--- Compiling module comparator_4bit
+-- Compiling module full_adder
 
 Top level modules:
-	comparator_4bit
+	full_adder
 
 } {} {}} F:/vivado/vivado_project/3230106231/lab5/src/comp_simulation.v {1 {vlog -work work -vopt -stats=none F:/vivado/vivado_project/3230106231/lab5/src/comp_simulation.v
 Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
@@ -25,6 +18,13 @@ Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
 
 Top level modules:
 	comparator_4bit_tb
+
+} {} {}} F:/vivado/vivado_project/3230106231/lab5/src/comp.v {1 {vlog -work work -vopt -stats=none F:/vivado/vivado_project/3230106231/lab5/src/comp.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module comparator_4bit
+
+Top level modules:
+	comparator_4bit
 
 } {} {}} F:/vivado/vivado_project/3230106231/lab5/src/mux2to1_simulation.v {1 {vlog -work work -vopt -stats=none F:/vivado/vivado_project/3230106231/lab5/src/mux2to1_simulation.v
 Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
@@ -39,5 +39,12 @@ Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
 
 Top level modules:
 	mux2to1
+
+} {} {}} F:/vivado/vivado_project/3230106231/lab5/src/max_min_out_simulation.v {1 {vlog -work work -vopt -stats=none F:/vivado/vivado_project/3230106231/lab5/src/max_min_out_simulation.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module max_min_top_tb
+
+Top level modules:
+	max_min_top_tb
 
 } {} {}}
