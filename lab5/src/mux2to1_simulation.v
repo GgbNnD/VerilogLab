@@ -1,10 +1,10 @@
 `timescale 1ns / 1ps
 
 module mux2to1_tb;
-    reg A;             // 输入 A
-    reg B;             // 输入 B
+    reg [3:0] A;             // 输入 A
+    reg [3:0] B;             // 输入 B
     reg sel;           // 选择信号
-    wire Y;           // 输出
+    wire [3:0] Y;           // 输出
 
     // 实例化 2:1 数据选择器
     mux2to1 mux (
