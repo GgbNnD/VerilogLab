@@ -1,0 +1,36 @@
+F:/vivado/vivado_project/3230106231/lab1_2/src/decode.v {1 {vlog -work work -vopt -stats=none {F:\vivado\vivado_project\3230106231\lab1_2\src\decode.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module decode
+
+Top level modules:
+	decode
+
+} {} {}} F:/vivado/vivado_project/3230106231/lab1_2/src/FlowingWaterLight.v {1 {vlog -work work -vopt -stats=none F:/vivado/vivado_project/3230106231/lab1_2/src/FlowingWaterLight.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module FlowingWaterLight
+
+Top level modules:
+	FlowingWaterLight
+
+} {} {}} F:/vivado/vivado_project/3230106231/lab1_2/src/counter_n.v {1 {vlog -work work -vopt -stats=none F:/vivado/vivado_project/3230106231/lab1_2/src/counter_n.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module counter_n
+
+Top level modules:
+	counter_n
+
+} {} {}} F:/vivado/vivado_project/3230106231/lab1_2/src/FlowingWaterLight_tb.v {1 {vlog -work work -vopt -stats=none F:/vivado/vivado_project/3230106231/lab1_2/src/FlowingWaterLight_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module FlowingWateLight_tb
+
+Top level modules:
+	FlowingWateLight_tb
+
+} {} {}} F:/vivado/vivado_project/3230106231/lab1_2/src/counter_up_down.v {1 {vlog -work work -vopt -stats=none F:/vivado/vivado_project/3230106231/lab1_2/src/counter_up_down.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module counter_up_dn
+
+Top level modules:
+	counter_up_dn
+
+} {} {}}
