@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module max_min_top (
+module max_min_out (
     input wire[3:0] A,  // 输入 A
     input wire[3:0] B,  // 输入 B
     output wire[3:0] Max,  // 输出最大值

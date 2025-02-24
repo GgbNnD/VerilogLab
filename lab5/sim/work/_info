@@ -9,168 +9,316 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-dF:/vivado/vivado_project/3230106231/lab1_2/sim
+Z0 dF:/vivado/vivado_project/3230106231/lab1_2/sim
 T_opt
 !s110 1740400182
 VKNM8iORY1==X?3iTYi7hf2
 04 14 4 work max_min_top_tb fast 0
 =1-e073e7ee5fd2-67bc6636-1ed-5f64
-o-quiet -auto_acc_if_foreign -work work +acc
-Z0 tCvgOpt 0
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
 n@_opt
-OL;O;2020.4;71
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1740402265
+VWQ`2ETgcGUYXhc[iGULQ`1
+04 11 4 work abs_diff_tb fast 0
+=4-e073e7ee5fd2-67bc6e59-9d-2f34
+R1
+R2
+n@_opt1
+R3
+vabs_diff
+Z4 !s110 1740402254
+!i10b 1
+!s100 ^U0nP71W>50f0QMhfei1H1
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Iz;EfaoTVZP`S<W1mW][Tl1
+Z6 dF:/vivado/vivado_project/3230106231/lab5/sim
+w1740401766
+8F:/vivado/vivado_project/3230106231/lab5/src/abs_diff.v
+FF:/vivado/vivado_project/3230106231/lab5/src/abs_diff.v
+!i122 68
+Z7 L0 3 29
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z10 !s108 1740402254.000000
+!s107 F:/vivado/vivado_project/3230106231/lab5/src/abs_diff.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/vivado/vivado_project/3230106231/lab5/src/abs_diff.v|
+!i113 0
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vabs_diff_tb
+R4
+!i10b 1
+!s100 zZgd1M0?3boeRh:m0iQOk3
+R5
+IL`MW^@0fn3g015Je35c3Y2
+R6
+w1740401800
+8F:/vivado/vivado_project/3230106231/lab5/src/abs_diff_simulation.v
+FF:/vivado/vivado_project/3230106231/lab5/src/abs_diff_simulation.v
+!i122 69
+Z12 L0 3 28
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 F:/vivado/vivado_project/3230106231/lab5/src/abs_diff_simulation.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/vivado/vivado_project/3230106231/lab5/src/abs_diff_simulation.v|
+!i113 0
+R11
+R2
+vadder_4bit
+R4
+!i10b 1
+!s100 1O8QocD2Y1Ued:d50EMk53
+R5
+IGP=_e3]92@eBkQH69RziW2
+R6
+w1740402240
+8F:/vivado/vivado_project/3230106231/lab5/src/adder_4bit.v
+FF:/vivado/vivado_project/3230106231/lab5/src/adder_4bit.v
+!i122 70
+L0 3 44
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 F:/vivado/vivado_project/3230106231/lab5/src/adder_4bit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/vivado/vivado_project/3230106231/lab5/src/adder_4bit.v|
+!i113 0
+R11
+R2
+vadder_4bit_tb
+R4
+!i10b 1
+!s100 czV;[BUi<_^G]@F^iM;3k3
+R5
+IS:hzXhg=H@<QlOaOJEhQD3
+R6
+w1740401391
+8F:/vivado/vivado_project/3230106231/lab5/src/adder_4bit_simulation.v
+FF:/vivado/vivado_project/3230106231/lab5/src/adder_4bit_simulation.v
+!i122 71
+L0 3 26
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 F:/vivado/vivado_project/3230106231/lab5/src/adder_4bit_simulation.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/vivado/vivado_project/3230106231/lab5/src/adder_4bit_simulation.v|
+!i113 0
+R11
+R2
 vcomparator_4bit
-Z1 !s110 1740400170
+Z13 !s110 1740402253
 !i10b 1
 !s100 :o[^51OG>Um55BjHKGbc@2
-Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+R5
 IBNLn<HM5O]N1fgEn1MK]J1
-Z3 dF:/vivado/vivado_project/3230106231/lab5/sim
+R6
 w1740384683
 8F:/vivado/vivado_project/3230106231/lab5/src/comp.v
 FF:/vivado/vivado_project/3230106231/lab5/src/comp.v
-!i122 40
+!i122 60
 L0 4 14
-Z4 VDg1SIo80bB@j0V0VzS_@n1
-Z5 OL;L;2020.4;71
+R8
+R9
 r1
 !s85 0
 31
-Z6 !s108 1740400170.000000
+Z14 !s108 1740402253.000000
 !s107 F:/vivado/vivado_project/3230106231/lab5/src/comp.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/vivado/vivado_project/3230106231/lab5/src/comp.v|
 !i113 0
-Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-R0
+R11
+R2
 vcomparator_4bit_tb
-R1
+R13
 !i10b 1
 !s100 D[S22A3R<`NS4[lUMBkLJ1
-R2
+R5
 I6FZS6LMeAF9lf=0o;EKKh1
-R3
+R6
 w1740384776
 8F:/vivado/vivado_project/3230106231/lab5/src/comp_simulation.v
 FF:/vivado/vivado_project/3230106231/lab5/src/comp_simulation.v
-!i122 41
-Z8 L0 3 29
-R4
-R5
+!i122 61
+R7
+R8
+R9
 r1
 !s85 0
 31
-R6
+R14
 !s107 F:/vivado/vivado_project/3230106231/lab5/src/comp_simulation.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/vivado/vivado_project/3230106231/lab5/src/comp_simulation.v|
 !i113 0
-R7
-R0
+R11
+R2
 vfull_adder
-Z9 !s110 1740400171
+R13
 !i10b 1
 !s100 PH23V`eCGlic@<5_]l]UI1
-R2
+R5
 IRH@RzY>UVR?5k;?LhgDHE0
-R3
+R6
 w1740384201
 8F:/vivado/vivado_project/3230106231/lab5/src/full_adder.v
 FF:/vivado/vivado_project/3230106231/lab5/src/full_adder.v
-!i122 42
+!i122 62
 L0 3 15
-R4
-R5
+R8
+R9
 r1
 !s85 0
 31
-Z10 !s108 1740400171.000000
+R14
 !s107 F:/vivado/vivado_project/3230106231/lab5/src/full_adder.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/vivado/vivado_project/3230106231/lab5/src/full_adder.v|
 !i113 0
-R7
-R0
+R11
+R2
 vfull_adder_tb
-R9
+R4
 !i10b 1
 !s100 T17Gbn6:T353n>9cSIm4K2
-R2
+R5
 I[08b]C6f`EMhP[RjOUQ7S0
-R3
+R6
 w1740384835
 8F:/vivado/vivado_project/3230106231/lab5/src/full_adder_simulation.v
 FF:/vivado/vivado_project/3230106231/lab5/src/full_adder_simulation.v
-!i122 43
+!i122 63
 L0 3 32
-R4
-R5
+R8
+R9
 r1
 !s85 0
 31
-R10
+R14
 !s107 F:/vivado/vivado_project/3230106231/lab5/src/full_adder_simulation.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/vivado/vivado_project/3230106231/lab5/src/full_adder_simulation.v|
 !i113 0
-R7
-R0
-vmax_min_top
+R11
+R2
+vmax_min_out
+R4
+!i10b 1
+!s100 4=iLB1g1NHgYWA0]zb4Gn0
+R5
+I>F@f6:5B:6f?ETHG=??g]2
+R6
+w1740400830
+Z15 8F:/vivado/vivado_project/3230106231/lab5/src/max_min_out.v
+Z16 FF:/vivado/vivado_project/3230106231/lab5/src/max_min_out.v
+!i122 64
+Z17 L0 3 34
+R8
 R9
+r1
+!s85 0
+31
+R10
+Z18 !s107 F:/vivado/vivado_project/3230106231/lab5/src/max_min_out.v|
+Z19 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/vivado/vivado_project/3230106231/lab5/src/max_min_out.v|
+!i113 0
+R11
+R2
+vmax_min_out_tb
+R4
+!i10b 1
+!s100 6e>JdZmebO1fF0OBmF?Ga1
+R5
+I[AKA_BXMTKP8da_Qdeh:U1
+R6
+w1740400828
+Z20 8F:/vivado/vivado_project/3230106231/lab5/src/max_min_out_simulation.v
+Z21 FF:/vivado/vivado_project/3230106231/lab5/src/max_min_out_simulation.v
+!i122 67
+R7
+R8
+R9
+r1
+!s85 0
+31
+R10
+Z22 !s107 F:/vivado/vivado_project/3230106231/lab5/src/max_min_out_simulation.v|
+Z23 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/vivado/vivado_project/3230106231/lab5/src/max_min_out_simulation.v|
+!i113 0
+R11
+R2
+vmax_min_top
+Z24 !s110 1740400171
 !i10b 1
 !s100 OFD2`R83dB5afK8W5=gF41
-R2
-IN;h:h^RY4ojTn?G`JnzoJ1
-R3
-w1740400158
-8F:/vivado/vivado_project/3230106231/lab5/src/max_min_out.v
-FF:/vivado/vivado_project/3230106231/lab5/src/max_min_out.v
-!i122 44
-L0 3 34
-R4
 R5
+IN;h:h^RY4ojTn?G`JnzoJ1
+R6
+w1740400158
+R15
+R16
+!i122 44
+R17
+R8
+R9
 r1
 !s85 0
 31
-R10
-!s107 F:/vivado/vivado_project/3230106231/lab5/src/max_min_out.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/vivado/vivado_project/3230106231/lab5/src/max_min_out.v|
+Z25 !s108 1740400171.000000
+R18
+R19
 !i113 0
-R7
-R0
+R11
+R2
 vmax_min_top_tb
-R9
+R24
 !i10b 1
 !s100 ^NkoT9O8^j9OPVHQn7B4P1
-R2
-I81gG2<ID6i]R=1DSROc`M2
-R3
-w1740399320
-8F:/vivado/vivado_project/3230106231/lab5/src/max_min_out_simulation.v
-FF:/vivado/vivado_project/3230106231/lab5/src/max_min_out_simulation.v
-!i122 47
-R8
-R4
 R5
+I81gG2<ID6i]R=1DSROc`M2
+R6
+w1740399320
+R20
+R21
+!i122 47
+R7
+R8
+R9
 r1
 !s85 0
 31
-R10
-!s107 F:/vivado/vivado_project/3230106231/lab5/src/max_min_out_simulation.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/vivado/vivado_project/3230106231/lab5/src/max_min_out_simulation.v|
+R25
+R22
+R23
 !i113 0
-R7
-R0
+R11
+R2
 vmux2to1
-R9
+R4
 !i10b 1
 !s100 _BfVn5HY5JlX<FabblE7[3
-R2
+R5
 IMizIUPCm[G2@3QgcH`iNF1
-R3
+R6
 w1740399960
 8F:/vivado/vivado_project/3230106231/lab5/src/mux2to1.v
 FF:/vivado/vivado_project/3230106231/lab5/src/mux2to1.v
-!i122 45
+!i122 65
 L0 3 11
-R4
-R5
+R8
+R9
 r1
 !s85 0
 31
@@ -178,22 +326,22 @@ R10
 !s107 F:/vivado/vivado_project/3230106231/lab5/src/mux2to1.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/vivado/vivado_project/3230106231/lab5/src/mux2to1.v|
 !i113 0
-R7
-R0
+R11
+R2
 vmux2to1_tb
-R9
+R4
 !i10b 1
 !s100 RObbPN2:U0Q`Tk77W@MY60
-R2
+R5
 I^5]oaaTQKY`[SN=2]o5_a0
-R3
+R6
 w1740400021
 8F:/vivado/vivado_project/3230106231/lab5/src/mux2to1_simulation.v
 FF:/vivado/vivado_project/3230106231/lab5/src/mux2to1_simulation.v
-!i122 46
-L0 3 28
-R4
-R5
+!i122 66
+R12
+R8
+R9
 r1
 !s85 0
 31
@@ -201,5 +349,5 @@ R10
 !s107 F:/vivado/vivado_project/3230106231/lab5/src/mux2to1_simulation.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/vivado/vivado_project/3230106231/lab5/src/mux2to1_simulation.v|
 !i113 0
-R7
-R0
+R11
+R2

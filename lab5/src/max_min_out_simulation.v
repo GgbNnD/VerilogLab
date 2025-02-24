@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module max_min_top_tb;
+module max_min_out_tb;
     reg [3:0] A, B;
     wire [3:0] Max, Min;
 
