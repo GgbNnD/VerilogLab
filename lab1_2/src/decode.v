@@ -3,7 +3,7 @@
 ///////////////////////////////////
 module decode(din,out);
   output[7:0]  out;
-  input[1:0]  din ;
+  input[2:0]  din ;
   reg [7:0] out;
   always @(*)
     case(din)
