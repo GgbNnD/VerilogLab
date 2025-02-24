@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Mon Feb 24 19:27:09 2025
+# Process ID         : 14404
+# Current directory  : F:/vivado/vivado_project/3230106231/lab1_2/vivado/lab1_2.runs/impl_1
+# Command line       : vivado.exe -log FlowingWaterLight.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source FlowingWaterLight.tcl -notrace
+# Log file           : F:/vivado/vivado_project/3230106231/lab1_2/vivado/lab1_2.runs/impl_1/FlowingWaterLight.vdi
+# Journal file       : F:/vivado/vivado_project/3230106231/lab1_2/vivado/lab1_2.runs/impl_1\vivado.jou
+# Running On         : LAPTOP-Q0M7ALED
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : AMD Ryzen 7 7840H  w/ Radeon 780M Graphics     
+# CPU Frequency      : 3793 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 16415 MB
+# Swap memory        : 12348 MB
+# Total Virtual      : 28763 MB
+# Available Virtual  : 7338 MB
+#-----------------------------------------------------------
+source FlowingWaterLight.tcl -notrace
